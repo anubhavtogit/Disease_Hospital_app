@@ -3,7 +3,7 @@
 To start the app on your local machine, simply run:
 
 ```
-python app.py
+streamlit run app.py
 ```
 
 This will launch the application on localhost.
